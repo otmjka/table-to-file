@@ -1,0 +1,21 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.0.1",
+    "config": "^3.1.0",
+    "dotenv": "^8.0.0",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "redis": "^2.8.0",
+    "sequelize": "^5.8.8"
+  }
+}
